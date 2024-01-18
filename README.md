@@ -1,2 +1,2 @@
 # ML models
- Machine learning madels create through an academic at UFMT 
+ Machine learning madels created for an academic at UFMT 
